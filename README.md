@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **AI based projects**
 
-- 🌱 I’m currently learning **APEX oracle**
-
 - 📫 How to reach me **kr.sakshee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
